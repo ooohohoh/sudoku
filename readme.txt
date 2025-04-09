@@ -1,8 +1,6 @@
 #this is a sudoku game deved with python
 
 
-
-
 #to run this, u might need the package:
 pygame
 time
